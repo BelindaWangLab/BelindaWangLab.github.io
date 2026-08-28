@@ -12,7 +12,11 @@ hide_title: true
 {% for post in site.posts %}
   <article class="news-item">
     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {% if post.external_url %}
+    <h2><a href="{{ post.external_url }}">{{ post.title }}</a></h2>
+    {% else %}
+    <h2>{{ post.title }}</h2>
+    {% endif %}
     <div class="news-content">
       {{ post.content }}
     </div>
