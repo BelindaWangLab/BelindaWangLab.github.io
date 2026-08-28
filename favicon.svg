@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
   <title id="title">Wang Lab mark</title>
-  <desc id="desc">A stylized Wang character and BW monogram built from clean linework.</desc>
-  <g fill="#000000">
+  <desc id="desc">A compact Wang Lab mark on a pale purple background.</desc>
+  <rect width="180" height="180" rx="36" fill="#f6f7ff"/>
+  <g transform="translate(9 10) scale(0.74)" fill="#000000">
     <rect x="38" y="26.5" width="113" height="15"/>
     <rect x="38" y="102.5" width="113" height="15"/>
     <rect x="38" y="178.5" width="113" height="15"/>
