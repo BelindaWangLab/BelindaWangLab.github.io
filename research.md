@@ -12,6 +12,10 @@ hide_title: true
 
   <p>Our work spans statistical genetics, functional genomics, and systems biology, integrating computational and experimental approaches to connect genetic risk to disease mechanisms.</p>
 
+  <figure class="research-schematic">
+    <img src="{{ '/assets/img/research/genes-to-mechanism.png' | relative_url }}" alt="Diagram linking risk genes to molecular and cellular mechanisms in OCD and Tourette disorder">
+  </figure>
+
   <p>Our current research focuses on:</p>
 
   <ul class="plain-list research-focus-list">

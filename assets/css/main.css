@@ -312,6 +312,18 @@ hr {
   margin-bottom: 0.25rem;
 }
 
+.research-schematic {
+  margin: 1.25rem 0 1rem;
+}
+
+.research-schematic img {
+  display: block;
+  width: 100%;
+  max-width: 680px;
+  margin: 0 auto;
+  height: auto;
+}
+
 .research-focus-list {
   margin-top: 0;
 }
