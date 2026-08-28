@@ -2,6 +2,7 @@
 name: Belinda Wang, MD, PhD
 initials: BW
 role: Principal Investigator
+photo: belinda-wang.jpg
 email: belinda.wang@ucsf.edu
 email_display: belinda.wang[at]ucsf.edu
 ucsf_profile: https://profiles.ucsf.edu/belinda.wang
