@@ -1,0 +1,19 @@
+# Build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+Gemfile.lock
+
+# Local preview files generated for review in Codex
+preview*.html
+
+# Internal source notes and working files should live outside this public site folder.
+PEOPLE_SOURCE.md
+PUBLICATION_IMAGES.md
+_publications/thumbnail_originals_*/
+
+# macOS
+.DS_Store

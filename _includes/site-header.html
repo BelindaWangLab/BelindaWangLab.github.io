@@ -1,0 +1,18 @@
+<header>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <nav class="navbar" aria-label="Primary navigation">
+    <div class="navbar-inner">
+      <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a class="institution-logo" href="https://www.ucsf.edu/" aria-label="UCSF">
+        <img src="{{ '/assets/img/ucsf-logo-white.png' | relative_url }}" alt="UCSF">
+      </a>
+      <ul class="navbar-nav">
+        {% for item in site.data.navigation %}
+          <li>
+            <a class="nav-link" href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+</header>

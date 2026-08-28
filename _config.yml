@@ -1,0 +1,39 @@
+title: Belinda Wang Lab
+tagline: UCSF Department of Psychiatry
+description: >-
+  The Wang Lab at UCSF uses genetics, functional genomics, and systems biology
+  to study obsessive-compulsive disorder, Tourette disorder, and related
+  neuropsychiatric conditions.
+url: "https://belindawanglab.com"
+baseurl: ""
+
+author:
+  name: Belinda Wang Lab
+  email: belinda.wang@ucsf.edu
+
+collections:
+  people:
+    output: false
+  publications:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+permalink: pretty
+include:
+  - _publications/thumbnails
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

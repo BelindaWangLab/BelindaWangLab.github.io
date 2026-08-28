@@ -1,0 +1,698 @@
+[
+  {
+    "title": "Autism mutations rewire protein interaction networks to drive neurodevelopmental pathology",
+    "authors_html": "<strong>Wang B*</strong>, Vartak R*, Hennick KM*, Zaltsman Y*, Naing ZZC*, Polacco BJ, Bashir A, Eckhardt M, Bouhaddou M, Xu J, <strong>Sun N</strong>, Lasser MC, Zhou Y, McKetney J, Guiley KZ, Gniewek P, Chan U, Amirani N, Griffiths O, Chadha N, Tognatta R, Cakir M, Gordon M, Khare P, Drake S, Drury V, Burke DF, Gonzalez S, Alkhairy S, Thomas R, Lam S, Morris M, Bader E, Dos Santos M, Komarova AV, Bennett M, Ennis C, Castillo O, Lim Y, Martin R, Seyler M, Baum T, Krasnoff R, <strong>Wang G</strong>, Middya S, Wang S, Pham P, Arbelaez J, Pratt D, Bali S, Chag S, Kaye JA, Mahmood N, Spraggon L, Rolland T, Hervey-Jumper S, Fraser JS, Bourgeron T, Finkbeiner S, Demeret C, Swaney DL, Bandyopadhyay S, Ideker T, Beltrao P, Willsey HR, Hüttenhain R, Obernier K#, Nowakowski TJ#, State MW#, Willsey AJ#, Krogan NJ#",
+    "journal": "Science",
+    "year": "2026",
+    "journal_year": "Science, 2026",
+    "citation_details": "Science 393(6814):eady4523",
+    "key": true,
+    "preprint": false,
+    "image_filename": "2026WangB_Science.png",
+    "image_alt_text": "Autism mutations rewire protein interaction networks to drive neurodevelopmental pathology",
+    "access": [
+      {
+        "label": "42658940",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658940/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://www.science.org/doi/10.1126/science.ady4523"
+      },
+      {
+        "label": "bioRxiv Preprint",
+        "url": "https://doi.org/10.1101/2023.12.03.569805"
+      },
+      {
+        "label": "GitHub Repositories",
+        "links": [
+          {
+            "label": "[1]",
+            "url": "https://github.com/MattStateLab/asdppi"
+          },
+          {
+            "label": "[2]",
+            "url": "https://github.com/kroganlab/ASD_PPI_Atlas"
+          }
+        ]
+      }
+    ],
+    "additional_links": [
+      {
+        "label": "UCSF News",
+        "url": "https://www.ucsf.edu/news/2026/08/432446/autism-decoded-new-science-opening-paths-better-treatments"
+      },
+      {
+        "label": "The Transmitter",
+        "url": "https://www.thetransmitter.org/spectrum/autism-linked-variants-rewire-protein-networks/"
+      }
+    ],
+    "deposited_data": [
+      {
+        "label": "AP-MS Data Viewer",
+        "url": "https://phagemap.ucsf.edu/public/ASD100/"
+      },
+      {
+        "label": "Organoid scRNA-seq: PRJNA1202137",
+        "url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1202137"
+      },
+      {
+        "label": "Organoid scRNA-seq: GSE285270",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE285270"
+      },
+      {
+        "label": "CUT&Tag: GSE285273",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE285273"
+      }
+    ]
+  },
+  {
+    "title": "Rare coding mutations identify 36 large-effect risk genes in obsessive-compulsive disorder and chronic tic disorders",
+    "authors_html": "<strong>Wang B</strong>, Tran MT, Wang S, Liu Y, Olfson E, <strong>Wang G</strong>, <strong>Sun N</strong>, <strong>Dea J</strong>, Olwal CO, Bertolace L, Bloch MH, Cappi C, Chang YC, Chavira D, Coffey BJ, Falkenstein MJ, Frank AC, Franklin ME, Garayalde S, Garrido H, Grados M, Hatem R, Howell AL, Khim S, Kuckertz JM, Le MM, Libby A, McCarty RJ, McNamara ME, McNeil D, Miguel EC, Nasello C, Nguyen B, Norbu T, Oh L, Ordway A, Paciotti C, Peskin VA, Pittenger C, Simpson HB, Martin HS, Tischfield MA, Xing J, Zakrzewski JJ, Tourette International Collaborative Genetics (TIC Genetics), Dietrich A, Gilbert DL, Hoekstra PJ, Kim YS, Kuperman S, Rosen A, Zinner SH, Bouhaddou M, King RA, Rouleau G, Ressler KJ, Mathews CA, Krogan NJ, Sestan N, Tischfield JA#, Lee AM#, Heiman GA#, Fernandez TV#, Willsey AJ#, State MW#",
+    "journal": "Nature Neuroscience",
+    "year": "2026",
+    "journal_year": "Nature Neuroscience, 2026",
+    "citation_details": "Nature Neuroscience (2026)",
+    "key": true,
+    "preprint": false,
+    "image_filename": "2026WangB_NatNeuroscience.png",
+    "image_alt_text": "Rare coding mutations identify 36 large-effect risk genes in obsessive-compulsive disorder and chronic tic disorders",
+    "access": [
+      {
+        "label": "41282685",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41282685/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC12633141",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12633141/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "medRxiv Preprint",
+        "url": "https://www.medrxiv.org/content/10.1101/2025.10.10.25337672v1"
+      },
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/BelindaWangLab/OCDCTDphase1"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+      {
+        "label": "Zenodo Record",
+        "url": "https://zenodo.org/records/20804979"
+      }
+    ]
+  },
+  {
+    "title": "Autism genes converge on microtubule biology and RNA-binding proteins during excitatory neurogenesis",
+    "authors_html": "Sun N*, Teyssier N*, <strong>Wang B</strong>, Drake S, Seyler M, Zaltsman Y, Everitt A, Teerikorpi N, Willsey HR, Goodarzi H, Tian R, Kampmann M, Willsey AJ",
+    "journal": "Accepted at Translational Psychiatry",
+    "year": "2026",
+    "journal_year": "Accepted at Translational Psychiatry, 2026",
+    "citation_details": "Accepted at Translational Psychiatry (2026)",
+    "key": false,
+    "preprint": false,
+    "image_filename": "2026SunN_TranslationalPsychiatry.jpg",
+    "image_alt_text": "Autism genes converge on microtubule biology and RNA-binding proteins during excitatory neurogenesis",
+    "access": [
+      {
+        "label": "38187634",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38187634/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC10769323",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10769323/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "bioRxiv Preprint",
+        "url": "https://doi.org/10.1101/2023.12.22.573108"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Oxytocin receptor controls promiscuity and development in prairie voles",
+    "authors_html": "Sharma R, Berendzen KM, Everitt A, <strong>Wang B</strong>, Williams G, Wang S, Quine K, Larios RD, Long KLP, Hoglen N, Sulaman BA, Heath MC, Sherman M, Klinkel R, Cai A, Galo D, Caamal LC, Goodwin NL, Beery A, Bales KL, Pollard KS, Willsey AJ, Manoli DS",
+    "journal": "eLife",
+    "year": "2025",
+    "journal_year": "eLife, 2025",
+    "citation_details": "eLife 14:e104889",
+    "key": false,
+    "preprint": true,
+    "image_filename": "2025Sharma_eLife.jpg",
+    "image_alt_text": "Oxytocin receptor controls promiscuity and development in prairie voles",
+    "access": [
+      {
+        "label": "39399774",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39399774/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC11468833",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11468833/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "eLife Reviewed Preprint",
+        "url": "https://doi.org/10.7554/eLife.104889"
+      },
+      {
+        "label": "bioRxiv Preprint",
+        "url": "https://doi.org/10.1101/2024.09.25.613753"
+      },
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/aseveritt/OXTR_prairie_voles"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+      {
+        "label": "RNA-seq: GSE279248",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE279248"
+      }
+    ]
+  },
+  {
+    "title": "Rare X-linked variants carry predominantly male risk in autism, Tourette syndrome, and ADHD",
+    "authors_html": "Wang S, <strong>Wang B</strong>, Drury V, Drake S, Sun N, Alkhairo H, Arbelaez J, Duhn C; Tourette International Collaborative Genetics (TIC Genetics); Bal VH, Langley K, Martin J, Hoekstra PJ, Dietrich A, Xing J, Heiman GA, Tischfield JA, Fernandez TV, Owen MJ, O'Donovan MC, Thapar A, State MW, Willsey AJ",
+    "journal": "Nature Communications",
+    "year": "2023",
+    "journal_year": "Nature Communications, 2023",
+    "citation_details": "Nature Communications 14:8077",
+    "key": false,
+    "preprint": false,
+    "image_filename": "2023WangS_NatureCommunications.webp",
+    "image_alt_text": "Rare X-linked variants carry predominantly male risk in autism, Tourette syndrome, and ADHD",
+    "access": [
+      {
+        "label": "38057346",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38057346/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC10700338",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10700338/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.1038/s41467-023-43776-0"
+      },
+      {
+        "label": "medRxiv Preprint",
+        "url": "https://doi.org/10.1101/2022.09.22.22280248"
+      },
+      {
+        "label": "Bitbucket Repository",
+        "url": "https://bitbucket.org/willseylab/chrx_analysis"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Pleiotropy of autism-associated chromatin regulators",
+    "authors_html": "Lasser M, Sun N, Xu Y, Wang S, Drake S, Law K, Gonzalez S, <strong>Wang B</strong>, Drury V, Castillo O, Zaltsman Y, Dea J, Bader E, McCluskey KE, State MW, Willsey AJ, Willsey HR",
+    "journal": "Development",
+    "year": "2023",
+    "journal_year": "Development, 2023",
+    "citation_details": "Development 150(14):dev201515",
+    "key": false,
+    "preprint": false,
+    "image_filename": "2023LasserM_Development.png",
+    "image_alt_text": "Pleiotropy of autism-associated chromatin regulators",
+    "access": [
+      {
+        "label": "37366052",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37366052/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC10399978",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10399978/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.1242/dev.201515"
+      },
+      {
+        "label": "bioRxiv Preprint",
+        "url": "https://doi.org/10.1101/2022.12.07.519375"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Genomics, convergent neuroscience and progress in understanding autism spectrum disorder",
+    "authors_html": "Willsey HR*, Willsey AJ*, <strong>Wang B</strong>, State MW",
+    "journal": "Nature Reviews Neuroscience",
+    "year": "2022",
+    "journal_year": "Nature Reviews Neuroscience, 2022",
+    "citation_details": "Nature Reviews Neuroscience 23(6):323-341. *Equal contribution",
+    "key": true,
+    "preprint": false,
+    "image_filename": "2022WillseyH_NatureReviewsNeuroscience.png",
+    "image_alt_text": "Genomics, convergent neuroscience and progress in understanding autism spectrum disorder",
+    "access": [
+      {
+        "label": "35440779",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35440779/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC10693992",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10693992/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.1038/s41583-022-00576-7"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "SMAD4 represses FOSL1 expression and pancreatic cancer metastatic colonization",
+    "authors_html": "Dai C, Rennhack JP, Arnoff TE, Thaker M, Younger ST, Doench JG, Huang AY, Yang A, Aguirre AJ, <strong>Wang B</strong>, Mun E, O'Connell JT, Huang Y, Labella K, Talamas JA, Li J, Ilic N, Hwang J, Hong AL, Giacomelli AO, Gjoerup O, Root DE, Hahn WC",
+    "journal": "Cell Reports",
+    "year": "2021",
+    "journal_year": "Cell Reports, 2021",
+    "citation_details": "Cell Reports 36(4):109443",
+    "key": false,
+    "preprint": false,
+    "image_filename": "2021DaiC_CellReports.jpg",
+    "image_alt_text": "SMAD4 represses FOSL1 expression and pancreatic cancer metastatic colonization",
+    "access": [
+      {
+        "label": "34320363",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34320363/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC8350598",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8350598/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.1016/j.celrep.2021.109443"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+      {
+        "label": "RNA-seq: GSE148248",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148248"
+      }
+    ]
+  },
+  {
+    "title": "Epitope spreading toward wild-type melanocyte-lineage antigens rescues suboptimal immune checkpoint blockade responses",
+    "authors_html": "Lo JA, Kawakubo M, Juneja VR, Su MY, Erlich TH, LaFleur MW, Kemeny LV, Rashid M, Malehmir M, Rabi SA, Raghavan R, Allouche J, Kasumova G, Frederick DT, Pauken KE, Weng QY, Pereira da Silva M, Xu Y, van der Sande AAJ, Silkworth W, Roider E, Browne EP, Lieb DJ, <strong>Wang B</strong>, Garraway LA, Wu CJ, Flaherty KT, Brinckerhoff CE, Mullins DW, Adams DJ, Hacohen N, Hoang MP, Boland GM, Freeman GJ, Sharpe AH, Manstein D, Fisher DE",
+    "journal": "Science Translational Medicine",
+    "year": "2021",
+    "journal_year": "Science Translational Medicine, 2021",
+    "citation_details": "Science Translational Medicine 13(581):eabd8636",
+    "key": false,
+    "preprint": false,
+    "image_filename": "2021LoJ_ScienceTranslationalMedicine.jpeg",
+    "image_alt_text": "Epitope spreading toward wild-type melanocyte-lineage antigens rescues suboptimal immune checkpoint blockade responses",
+    "access": [
+      {
+        "label": "33597266",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33597266/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC8130008",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8130008/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.1126/scitranslmed.abd8636"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Leveraging large genomic datasets to illuminate the pathobiology of autism spectrum disorders",
+    "authors_html": "Searles Quick VB*, <strong>Wang B*</strong>, State MW",
+    "journal": "Neuropsychopharmacology",
+    "year": "2021",
+    "journal_year": "Neuropsychopharmacology, 2021",
+    "citation_details": "Neuropsychopharmacology 46(1):55-69. *Equal contribution",
+    "key": true,
+    "preprint": false,
+    "image_filename": "2021SearlesV_Neuropsychopharmacology.webp",
+    "image_alt_text": "Leveraging large genomic datasets to illuminate the pathobiology of autism spectrum disorders",
+    "access": [
+      {
+        "label": "32668441",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32668441/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC7688655",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7688655/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.1038/s41386-020-0768-y"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Parallel in vivo analysis of large-effect autism genes implicates cortical neurogenesis and estrogen in risk and resilience",
+    "authors_html": "Willsey HR, Exner CRT, Xu Y, Everitt A, Sun N, <strong>Wang B</strong>, Dea J, Schmunk G, Zaltsman Y, Teerikorpi N, Kim A, Anderson AS, Shin D, Seyler M, Nowakowski TJ, Harland RM, Willsey AJ, State MW",
+    "journal": "Neuron",
+    "year": "2021",
+    "journal_year": "Neuron, 2021",
+    "citation_details": "Neuron 109(5):788-804.e8",
+    "key": false,
+    "preprint": false,
+    "image_filename": "2021WillseyHR_Neuron.jpg",
+    "image_alt_text": "Parallel in vivo analysis of large-effect autism genes implicates cortical neurogenesis and estrogen in risk and resilience",
+    "access": [
+      {
+        "label": "33497602",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33497602/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC8132462",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8132462/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.1016/j.neuron.2021.01.002"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Copy-number and gene dependency analysis reveals partial copy loss of wild-type SF3B1 as a novel cancer vulnerability",
+    "authors_html": "Paolella BR, Gibson WJ, Urbanski LM, Alberta JA, Zack TI, Bandopadhayay P, Nichols CA, Agarwalla PK, Brown MS, Lamothe R, Yu Y, Choi PS, Obeng EA, Heckl D, Wei G, <strong>Wang B</strong>, Tsherniak A, Vazquez F, Weir BA, Root DE, Cowley GS, Buhrlage SJ, Stiles CD, Ebert BL, Hahn WC, Reed R, Beroukhim R",
+    "journal": "eLife",
+    "year": "2017",
+    "journal_year": "eLife, 2017",
+    "citation_details": "eLife 6:e23268",
+    "key": false,
+    "preprint": false,
+    "image_filename": "2017PaolellaB_eLife.jpeg",
+    "image_alt_text": "Copy-number and gene dependency analysis reveals partial copy loss of wild-type SF3B1 as a novel cancer vulnerability",
+    "access": [
+      {
+        "label": "28177281",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28177281/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC5357138",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5357138/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.7554/eLife.23268"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "ATXN1L, CIC, and ETS Transcription Factors Modulate Sensitivity to MAPK Pathway Inhibition",
+    "authors_html": "<strong>Wang B*</strong>, Krall EB*, Aguirre AJ*, Kim M, Widlund HR, Doshi MB, Sicinska E, Sulahian R, Goodale A, Cowley GS, Piccioni F, Doench JG, Root DE, Hahn WC",
+    "journal": "Cell Reports",
+    "year": "2017",
+    "journal_year": "Cell Reports, 2017",
+    "citation_details": "Cell Reports 18(6):1543-1557. *Equal contribution",
+    "key": true,
+    "preprint": false,
+    "image_filename": "2017WangB_CellReports.jpg",
+    "image_alt_text": "ATXN1L, CIC, and ETS Transcription Factors Modulate Sensitivity to MAPK Pathway Inhibition",
+    "access": [
+      {
+        "label": "28178529",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28178529/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC5313047",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5313047/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.1016/j.celrep.2017.01.031"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "KEAP1 loss modulates sensitivity to kinase targeted therapy in lung cancer",
+    "authors_html": "Krall EB*, <strong>Wang B*</strong>, Munoz DM*, Ilic N, Raghavan S, Niederst MJ, Yu K, Ruddy DA, Aguirre AJ, Kim JW, Redig AJ, Gainor JF, Williams JA, Asara JM, Doench JG, Janne PA, Shaw AT, McDonald III RE, Engelman JA, Stegmeier F, Schlabach MR, Hahn WC",
+    "journal": "eLife",
+    "year": "2017",
+    "journal_year": "eLife, 2017",
+    "citation_details": "eLife 6:e18970. *Equal contribution",
+    "key": true,
+    "preprint": false,
+    "image_filename": "2017KrallB_eLife.jpg",
+    "image_alt_text": "KEAP1 loss modulates sensitivity to kinase targeted therapy in lung cancer",
+    "access": [
+      {
+        "label": "28145866",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28145866/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC5305212",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5305212/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.7554/eLife.18970"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Vitamin K epoxide reductase prefers ER membrane-anchored thioredoxin-like redox partners",
+    "authors_html": "Schulman S, <strong>Wang B</strong>, Li W, Rapoport TA",
+    "journal": "PNAS",
+    "year": "2010",
+    "journal_year": "PNAS, 2010",
+    "citation_details": "PNAS 107(34):15027-15032",
+    "key": false,
+    "preprint": false,
+    "image_filename": "2010SchulmanS_PNAS.jpeg",
+    "image_alt_text": "Vitamin K epoxide reductase prefers ER membrane-anchored thioredoxin-like redox partners",
+    "access": [
+      {
+        "label": "20696932",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20696932/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC2930587",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2930587/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "Full Text",
+        "url": "https://doi.org/10.1073/pnas.1009972107"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Genome-Wide Association Analysis of Tic Disorders Reveals 6 Independent Risk Loci and Highlights Tic-Associated Cell Types and Brain Circuitry",
+    "authors_html": "Yu D, Strom NI, Gerring ZF, Topaloudi A, Halvorsen MW, Shekhar S, Miller-Fleming TW, Tang M, Porras LM, Ivankovic F, Mahjani B, Palviainen T, Corfield EC, Androutsos C, Apter A, Ask H, Baglioni V, Ball J, Barr CL, Barta C, Basha E, Batterson JR, Benaroya-Milshtein N, Benarroch F, Boomsma DI, Børglum AD, Budman CL, Buitelaar JK, Buse J, Bybjerg-Grauholm J, Cardona F, Cath DC, Cavallari LH, Cheon KA, Coffey BJ, Dahl N, Depienne C, Dietrich A, Domènech L, Drineas P, Einarsson G, Elster EM, Fan S, Feldman D, Fernandez TV, Fichna JP, Forde NJ, Fothi A, Fremer C, Gantz E, Garcia-Delgar B, Georgitsi M, Gilbert DL, Glennon J, Glover D, Grados MA, Greenberg EL, Grove J, Gudbjartsson DF, Hartmann A, Havdahl A, Hedderly T, Hengerer B, Herrera-Amighetti LD, Heyman I, Hoekstra PJ, Hong HJ, Huang AY, Huijser C, Isaacs D, Janik P, Jankovic J, Jespersgaard C, Jung S, Kanaan AS, Kapisyzi M, Kappler-Friedrichs C, Kaprio J, Karagiannidis I, Khalifa N, Kim YS, King RA, Kirchen N, Klages CS, Koh YJ, Koumoula A, Kuperman S, Leckman JF, Leventhal BL, Liang H, Lochner C, Lopez ML, Madruga-Garrido M, Malaty IA, Malik O, McMahon WM, Meier SM, Messchendorp MD, Mingbunjerdsuk D, Mir P, Morer A, Müller N, Müller-Vahl K, Münchau A, Muñoz-Delgado L, Murphy T, Nagy P, Neale BM, Nurmi EL, O'Connell KS, Okun MS, Padmanabhuni SS, Pauls DL, Plessen K, Poelmans G, Porcelli C, Posthuma D, Pouwels PJW, Puchala J, Rizzo R, Robertson M, Roessner V, Rosen A, Rouleau G, Sandin S, Sandor P, Scheiene M, Schmitt S, Senior JA, Singer HS, Smoller JW, Sopena S, Steinberg T, Szejko N, Szymanska U, Tarnok Z, Thorarensen O, Timmor M, Tischfield JA, Tümer Z, Uhlmann A, van den Heuvel OA, van der Werf YD, Correa Vela M, Veltman DJ, Vigil-Pérez A, Walters GB, <strong>Wang B</strong>, Werge T, Widomska J, Wolanczyk T, Worbe Y, Xing J, Yin J, Zekanowski C, Zilhäo NR, Zinner SH, Buxbaum JD, Grice DE, Hultman C, Stefansson H, Andreassen O, Palotie A, Heiman GA, Gandal MJ, Davis LK, Giusti-Rodríguez P, Mattheisen M, Crowley JJ, Paschou P, Scharf JM, Mathews CA",
+    "journal": "medRxiv",
+    "year": "2026",
+    "journal_year": "medRxiv, 2026",
+    "citation_details": "medRxiv",
+    "key": false,
+    "preprint": true,
+    "image_filename": "2026YuD_medRxiv_TDGWAS.gif",
+    "image_alt_text": "Genome-Wide Association Analysis of Tic Disorders Reveals 6 Independent Risk Loci and Highlights Tic-Associated Cell Types and Brain Circuitry",
+    "access": [
+      {
+        "label": "medRxiv Preprint",
+        "url": "https://doi.org/10.64898/2026.04.09.26350245"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Convergence of autism proteins at the cilium",
+    "authors_html": "Kostyanovskaya E, Lasser MC, <strong>Wang B</strong>, Schmidt J, Bader E, Buteo C, Arbelaez J, Sindledecker AR, McCluskey KE, Castillo O, Wang S, <strong>Dea J</strong>, Helde KA, Graglia JM, Brimble E, Kastner DB, Ehrlich AT, State MW, Willsey AJ, Willsey HR",
+    "journal": "bioRxiv",
+    "year": "2024",
+    "journal_year": "bioRxiv, 2024",
+    "citation_details": "bioRxiv. In revision at Nature Neuroscience",
+    "key": false,
+    "preprint": true,
+    "image_filename": "2024KostyanovskayaE_bioRxiv.jpg",
+    "image_alt_text": "Convergence of autism proteins at the cilium",
+    "access": [
+      {
+        "label": "39677731",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39677731/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC11643032",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11643032/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "bioRxiv Preprint",
+        "url": "https://doi.org/10.1101/2024.12.05.626924"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Koolen-de Vries Syndrome causal gene KANSL1 is required for motile ciliogenesis",
+    "authors_html": "Schmidt JD, Terala A, McCluskey KE, <strong>Wang B</strong>, Pfalzer AC, Willsey HR",
+    "journal": "bioRxiv",
+    "year": "2024",
+    "journal_year": "bioRxiv, 2024",
+    "citation_details": "bioRxiv. In revision at Development",
+    "key": false,
+    "preprint": true,
+    "image_filename": "2024SchmidtJ_bioRxiv.jpg",
+    "image_alt_text": "Koolen-de Vries Syndrome causal gene KANSL1 is required for motile ciliogenesis",
+    "access": [
+      {
+        "label": "bioRxiv Preprint",
+        "url": "https://doi.org/10.1101/2024.11.14.621349"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+
+    ]
+  },
+  {
+    "title": "Comprehensive structure-function analysis reveals gain- and loss-of-function mechanisms impacting oncogenic KRAS activity",
+    "authors_html": "Kwon JJ, Dilly J, Liu S, Kim E, Bian Y, Dharmaiah S, Tran TH, Kapner KS, Ly SH, Yang X, Rabara D, Waybright TJ, Giacomelli AO, Hong AL, Misek S, <strong>Wang B</strong>, Ravi A, Doench JG, Beroukhim R, Lemke CT, Haigis KM, Esposito D, Root DE, Nissley DV, Stephen AG, McCormick F, Simanshu DK, Hahn WC, Aguirre AJ",
+    "journal": "bioRxiv",
+    "year": "2024",
+    "journal_year": "bioRxiv, 2024",
+    "citation_details": "bioRxiv. Submitted at Nature Communications",
+    "key": false,
+    "preprint": true,
+    "image_filename": "2024KwonJ_bioRxiv.jpg",
+    "image_alt_text": "Comprehensive structure-function analysis reveals gain- and loss-of-function mechanisms impacting oncogenic KRAS activity",
+    "access": [
+      {
+        "label": "39484452",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39484452/",
+        "prefix": "PMID: "
+      },
+      {
+        "label": "PMC11526993",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11526993/",
+        "prefix": "PMCID: "
+      },
+      {
+        "label": "bioRxiv Preprint",
+        "url": "https://doi.org/10.1101/2024.10.22.618529"
+      }
+    ],
+    "additional_links": [
+
+    ],
+    "deposited_data": [
+      {
+        "label": "Target KRAS Data Portal",
+        "url": "https://www.targetkras.com/"
+      }
+    ]
+  }
+]
