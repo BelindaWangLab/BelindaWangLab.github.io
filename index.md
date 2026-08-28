@@ -13,7 +13,7 @@ hide_title: true
 
         <img class="logo-mark" src="{{ '/assets/img/wang-lab-logo-lineart.png' | relative_url }}" alt="Belinda Wang Lab logo">
 
-        <p class="welcomefont">We are part of the <a href="https://psychiatry.ucsf.edu/">Department of Psychiatry</a> at UCSF.</p>
+        <p class="welcomefont">We are part of the <a href="https://psychiatry.ucsf.edu/">Department of Psychiatry and Behavioral Sciences</a> at UCSF.</p>
       </div>
     </div>
 
