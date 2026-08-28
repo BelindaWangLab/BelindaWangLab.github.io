@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
-  <title id="title">Wang Lab mark</title>
-  <desc id="desc">A stylized Wang character and BW monogram built from clean linework.</desc>
-  <g fill="#000000">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Belinda Wang Lab</title>
+  <desc id="desc">A clean share card for the Belinda Wang Lab website.</desc>
+  <rect width="1200" height="630" fill="#f6f7ff"/>
+  <g transform="translate(-10 78) scale(2.2)" fill="#000000">
     <rect x="38" y="26.5" width="113" height="15"/>
     <rect x="38" y="102.5" width="113" height="15"/>
     <rect x="38" y="178.5" width="113" height="15"/>
@@ -10,5 +11,9 @@
     <polygon points="151,102.5 171.7,102.5 184.5,80.2 197.5,87.7 180.3,117.5 151,117.5"/>
     <polygon points="169.5,113.8 182.5,106.3 197.5,132.3 184.5,139.8"/>
     <polygon points="151,178.5 171.7,178.5 184.5,156.2 197.5,163.7 180.3,193.5 151,193.5"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" fill="#000000" font-weight="700">
+    <text x="500" y="292" font-size="215">WANG</text>
+    <text x="500" y="503" font-size="215">LAB</text>
   </g>
 </svg>

@@ -8,14 +8,18 @@ This folder should contain only files that are safe to publish on GitHub.
 
 - `_config.yml`: site metadata and domain settings.
 - `_data/navigation.yml`: top navigation.
+- `_includes/site-footer.html`: public footer text and source attribution links.
 - `_data/publications.json`: curated publication metadata.
 - `_people/*.md`: public lab member and alumni profiles.
 - `_posts/*.md`: public news items.
 - `assets/`: public CSS, logos, icons, and image assets.
 - `assets/img/publications/`: public publication thumbnail images.
+- `assets/img/share-card.png`: public link-preview image for shared URLs.
+- `assets/img/share-card.svg`: editable source for the link-preview image.
+- `favicon.svg`, `apple-touch-icon.png`, and `apple-touch-icon.svg`: browser tab and saved-link icons.
 - `index.md`, `research.md`, `publications.md`, `people.md`, `news.md`, `contact.md`, `support.md`: public pages.
 
-Do not put internal Google Docs, Google Sheets, unpublished PDFs, raw form responses, collaborator notes, or working image files in this folder. Keep those in sibling folders such as `../content-inputs/` and `../private/`.
+Do not put internal Google Docs, Google Sheets, unpublished PDFs, raw form responses, collaborator notes, draft thumbnails, or working image files in this folder. Keep those in sibling folders such as `../content-inputs/` and `../private/`. Only final, public-ready assets should go in `assets/`.
 
 ## Preview Locally
 
