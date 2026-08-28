@@ -596,6 +596,10 @@ time {
   max-width: 900px;
 }
 
+.support-page .plain-page-title {
+  margin-bottom: 1.8rem;
+}
+
 .contact-section,
 .support-section {
   margin-bottom: 1.8rem;
@@ -608,10 +612,21 @@ time {
   font-weight: 500;
 }
 
+.support-page .support-heading {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
 .contact-section h2.large-section-title {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   font-size: 2rem;
+}
+
+.support-section h2.large-section-title {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .contact-section p,

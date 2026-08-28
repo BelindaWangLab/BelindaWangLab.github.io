@@ -40,12 +40,12 @@
     ],
     "additional_links": [
       {
-        "label": "UCSF News",
-        "url": "https://www.ucsf.edu/news/2026/08/432446/autism-decoded-new-science-opening-paths-better-treatments"
-      },
-      {
         "label": "The Transmitter",
         "url": "https://www.thetransmitter.org/spectrum/autism-linked-variants-rewire-protein-networks/"
+      },
+      {
+        "label": "UCSF News",
+        "url": "https://www.ucsf.edu/news/2026/08/432446/autism-decoded-new-science-opening-paths-better-treatments"
       }
     ],
     "deposited_data": [

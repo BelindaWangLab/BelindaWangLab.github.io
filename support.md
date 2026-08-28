@@ -6,7 +6,7 @@ hide_title: true
 ---
 
 <div class="container content-page support-page">
-  <h1 class="plain-page-title">Support the Wang Lab</h1>
+  <h1 class="plain-page-title support-heading">Support the Wang Lab</h1>
 
   <section class="support-section">
     <p>Thank you so much for your interest in supporting our work. Research conducted by our team is funded by grants and institutional sources. These non-discretionary funds do not cover the full scope of some studies or the cost of sustaining the lab. Your donations make all the difference in supporting our research on OCD, tic disorders, and related neuropsychiatric conditions, while supporting the training of young scientists.</p>
@@ -15,5 +15,14 @@ hide_title: true
       <p>"Please direct my gift to the Wang Lab (Belinda Wang, MD, PhD), UCSF Department of Psychiatry and Behavioral Sciences."</p>
     </blockquote>
     <p>Thank you for supporting our research!</p>
+
+    <h2 class="large-section-title support-heading">Current Support</h2>
+    <p>We are grateful for support from the following organizations:</p>
+    <ul class="plain-list">
+      <li>Harvey L. and Maud C. Sorensen Foundation</li>
+      <li>Brain &amp; Behavior Research Foundation</li>
+      <li>International OCD Foundation</li>
+      <li>Tourette Association of America</li>
+    </ul>
   </section>
 </div>

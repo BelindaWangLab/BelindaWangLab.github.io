@@ -1,11 +1,11 @@
 ---
-title: Our research
+title: Our Research
 permalink: /research/
 hide_title: true
 ---
 
 <div class="container content-page">
-<h1 class="research-title">Our research</h1>
+<h1 class="research-title">Our Research</h1>
 
 <div class="research-copy">
   <p>Obsessive-compulsive disorder (OCD), Tourette disorder, and related early-onset neuropsychiatric disorders are common, highly heritable, and cause substantial impairment. Yet their underlying biology remains poorly understood. Our lab uses human genetics to identify disease-associated genes and variants and determine how they disrupt molecular, cellular, and neurobiological processes. Our long-term goal is to translate these discoveries into more effective approaches to diagnosis and treatment.</p>
