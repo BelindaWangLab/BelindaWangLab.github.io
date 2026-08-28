@@ -11,8 +11,8 @@ This folder should contain only files that are safe to publish on GitHub.
 - `_data/publications.json`: curated publication metadata.
 - `_people/*.md`: public lab member and alumni profiles.
 - `_posts/*.md`: public news items.
-- `_publications/thumbnails/`: public publication thumbnail images.
 - `assets/`: public CSS, logos, icons, and image assets.
+- `assets/img/publications/`: public publication thumbnail images.
 - `index.md`, `research.md`, `publications.md`, `people.md`, `news.md`, `contact.md`, `support.md`: public pages.
 
 Do not put internal Google Docs, Google Sheets, unpublished PDFs, raw form responses, collaborator notes, or working image files in this folder. Keep those in sibling folders such as `../content-inputs/` and `../private/`.

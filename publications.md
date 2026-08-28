@@ -21,7 +21,7 @@ hide_title: true
       <div class="publication-layout">
         <div class="publication-figure">
           {% if publication.image_filename %}
-            <img src="{{ '/_publications/thumbnails/' | append: publication.image_filename | relative_url }}" alt="{{ publication.image_alt_text | default: publication.title }}">
+            <img src="{{ '/assets/img/publications/' | append: publication.image_filename | relative_url }}" alt="{{ publication.image_alt_text | default: publication.title }}">
           {% else %}
             <div class="publication-image-placeholder" aria-label="Publication image placeholder"></div>
           {% endif %}

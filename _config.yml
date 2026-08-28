@@ -30,8 +30,6 @@ plugins:
 
 markdown: kramdown
 permalink: pretty
-include:
-  - _publications/thumbnails
 exclude:
   - Gemfile
   - Gemfile.lock
