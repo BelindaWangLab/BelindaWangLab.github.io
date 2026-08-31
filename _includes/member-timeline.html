@@ -1,0 +1,89 @@
+{% assign timeline = site.data.member_timeline %}
+{% assign timeline_start = timeline.settings.start | date: "%s" | plus: 0 %}
+{% assign timeline_end = timeline.settings.end | date: "%s" | plus: 0 %}
+{% assign timeline_span = timeline_end | minus: timeline_start %}
+{% assign svg_width = 920 %}
+{% assign plot_x = 240 %}
+{% assign plot_width = 630 %}
+{% assign axis_top = 16 %}
+{% assign axis_bottom = 45 %}
+{% assign axis_height = axis_bottom | minus: axis_top %}
+{% assign minor_top = axis_top | plus: 2 %}
+{% assign minor_height = axis_height | minus: 4 %}
+{% assign row_start = 52 %}
+{% assign row_gap = 22 %}
+{% assign bar_height = 16 %}
+{% assign people_count = timeline.people | size %}
+{% assign category_count = timeline.categories | size %}
+{% assign row_area = people_count | times: row_gap %}
+{% assign legend_y = row_start | plus: row_area | plus: 18 %}
+{% assign legend_rows = category_count | plus: 1 | divided_by: 2 %}
+{% assign legend_area = legend_rows | times: 21 %}
+{% assign svg_height = legend_y | plus: legend_area | plus: 10 %}
+
+<section class="member-timeline" aria-label="Wang Lab member timeline">
+  <div class="timeline-svg-wrap">
+    <svg class="member-timeline-svg" viewBox="0 0 {{ svg_width }} {{ svg_height }}" role="img" aria-label="Timeline of Wang Lab members by role category" xmlns="http://www.w3.org/2000/svg">
+      <g class="timeline-svg-axis" aria-hidden="true">
+        {% for tick in timeline.ticks %}
+          {% assign tick_seconds = tick.date | date: "%s" | plus: 0 %}
+          {% assign tick_offset = tick_seconds | minus: timeline_start %}
+          {% assign tick_x = tick_offset | times: 1.0 | divided_by: timeline_span | times: plot_width | plus: plot_x %}
+          {% if tick.major %}
+            <rect class="timeline-svg-major-tick" x="{{ tick_x | minus: 3 }}" y="{{ axis_top }}" width="6" height="{{ axis_height }}" />
+          {% else %}
+            <rect class="timeline-svg-minor-tick" x="{{ tick_x | minus: 1.25 }}" y="{{ minor_top }}" width="2.5" height="{{ minor_height }}" />
+          {% endif %}
+          {% if tick.label %}
+            {% if tick.label_top %}
+              <text class="timeline-svg-month-label" x="{{ tick_x | plus: 8 }}" y="{{ axis_top | plus: 12 }}">{{ tick.label_top }}</text>
+              <text class="timeline-svg-year-label" x="{{ tick_x | plus: 8 }}" y="{{ axis_bottom | minus: 2 }}">{{ tick.label }}</text>
+            {% else %}
+              <text class="timeline-svg-year-label" x="{{ tick_x | plus: 8 }}" y="{{ axis_bottom | minus: 7 }}">{{ tick.label }}</text>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </g>
+
+      {% for member in timeline.people %}
+        {% assign category = timeline.categories | where: "name", member.category | first %}
+        {% assign member_start = member.start | date: "%s" | plus: 0 %}
+        {% if member.current %}
+          {% assign member_end = timeline_end %}
+        {% else %}
+          {% assign member_end = member.end | date: "%s" | plus: 0 %}
+        {% endif %}
+        {% if member_start < timeline_start %}
+          {% assign member_start = timeline_start %}
+        {% endif %}
+        {% if member_end > timeline_end %}
+          {% assign member_end = timeline_end %}
+        {% endif %}
+        {% assign member_offset = member_start | minus: timeline_start %}
+        {% assign member_duration = member_end | minus: member_start %}
+        {% assign member_x = member_offset | times: 1.0 | divided_by: timeline_span | times: plot_width | plus: plot_x %}
+        {% assign member_width = member_duration | times: 1.0 | divided_by: timeline_span | times: plot_width %}
+        {% assign row_y = forloop.index0 | times: row_gap | plus: row_start %}
+        <g class="timeline-svg-row">
+          <text class="timeline-svg-name" text-anchor="end" x="{{ plot_x | minus: 12 }}" y="{{ row_y | plus: 12 }}">{{ member.name }}</text>
+          <rect class="timeline-svg-bar" x="{{ member_x }}" y="{{ row_y }}" width="{{ member_width }}" height="{{ bar_height }}" fill="{{ category.color }}">
+            <title>{{ member.name }}: {{ member.category }}</title>
+          </rect>
+        </g>
+      {% endfor %}
+
+      <g class="timeline-svg-legend" aria-label="Timeline role categories">
+        {% for category in timeline.categories %}
+          {% assign legend_col = forloop.index0 | modulo: 2 %}
+          {% assign legend_row = forloop.index0 | divided_by: 2 %}
+          {% assign legend_col_offset = legend_col | times: 320 %}
+          {% assign legend_row_offset = legend_row | times: 21 %}
+          {% assign legend_x = plot_x | plus: legend_col_offset %}
+          {% assign legend_item_y = legend_y | plus: legend_row_offset %}
+          <rect x="{{ legend_x }}" y="{{ legend_item_y }}" width="14" height="14" fill="{{ category.color }}" />
+          <text x="{{ legend_x | plus: 21 }}" y="{{ legend_item_y | plus: 12 }}">{{ category.name }}</text>
+        {% endfor %}
+      </g>
+    </svg>
+  </div>
+</section>

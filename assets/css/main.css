@@ -666,6 +666,61 @@ time {
   vertical-align: -0.1em;
 }
 
+.member-timeline {
+  margin-bottom: 2rem;
+}
+
+.timeline-svg-wrap {
+  max-width: 920px;
+  overflow-x: auto;
+  padding: 0.2rem 0 0.4rem;
+}
+
+.member-timeline-svg {
+  display: block;
+  width: 100%;
+  min-width: 720px;
+  height: auto;
+}
+
+.timeline-svg-name,
+.timeline-svg-legend text {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.timeline-svg-axis rect {
+  fill: var(--text);
+  shape-rendering: crispEdges;
+}
+
+.timeline-svg-year-label {
+  fill: var(--text);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.timeline-svg-month-label {
+  fill: var(--text);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.timeline-svg-name {
+  fill: var(--text);
+  font-size: 14px;
+}
+
+.timeline-svg-bar {
+  shape-rendering: crispEdges;
+}
+
+.timeline-svg-legend text {
+  fill: var(--muted);
+  font-size: 13px;
+}
+
 .member-chart {
   max-width: 720px;
   margin-bottom: 2rem;
@@ -783,6 +838,7 @@ time {
   .chart-label {
     grid-column: 1 / -1;
   }
+
 }
 
 @media (max-width: 575px) {

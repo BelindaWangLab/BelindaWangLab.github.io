@@ -1,0 +1,65 @@
+settings:
+  start: 2025-07-01
+  end: 2027-01-01
+
+ticks:
+  - label: "2025"
+    label_top: "Jul"
+    date: 2025-07-01
+    major: true
+  - label: "2026"
+    date: 2026-01-01
+    major: true
+  - label: "2027"
+    date: 2027-01-01
+    major: true
+
+categories:
+  - name: Principal Investigator
+    color: "#CC0000"
+  - name: Postdoctoral Fellow
+    color: "#807cff"
+  - name: Graduate Student
+    color: "#bfbdff"
+  - name: Staff Scientist
+    color: "#ab7474"
+  - name: Research Associate
+    color: "#e7c7c7"
+  - name: Undergraduate
+    color: "#f6d2a9"
+  - name: Administrative Staff
+    color: "#c8c8c8"
+
+people:
+  - name: Belinda Wang
+    category: Principal Investigator
+    start: 2025-07-01
+    current: true
+  - name: Matt Nguyen Tran
+    category: Staff Scientist
+    start: 2025-07-01
+    current: true
+  - name: Nawei Sun
+    category: Staff Scientist
+    start: 2025-07-01
+    current: true
+  - name: George Wang
+    category: Research Associate
+    start: 2025-07-01
+    current: true
+  - name: Jeanselle Dea
+    category: Research Associate
+    start: 2025-07-01
+    current: true
+  - name: Ashley Clement
+    category: Administrative Staff
+    start: 2025-07-01
+    current: true
+  - name: Evan Marshman
+    category: Graduate Student
+    start: 2026-04-01
+    current: true
+  - name: Fabrizio Malatesta
+    category: Undergraduate
+    start: 2026-06-15
+    end: 2026-08-07

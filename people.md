@@ -74,4 +74,9 @@ hide_title: true
 {% endfor %}
 </div>
 
+{% comment %}
+Member timeline preserved for future use in _includes/member-timeline.html
+and _data/member_timeline.yml.
+{% endcomment %}
+
 </div>
