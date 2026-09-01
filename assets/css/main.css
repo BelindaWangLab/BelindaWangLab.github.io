@@ -541,6 +541,33 @@ time {
   line-height: 1.45;
 }
 
+.publication-consortium-button {
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--link);
+  font: inherit;
+  cursor: pointer;
+}
+
+.publication-consortium-button:hover,
+.publication-consortium-button:focus {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+.publication-consortium-authors {
+  display: block;
+  margin-top: 0.25rem;
+}
+
+.publication-consortium-authors[hidden] {
+  display: none;
+}
+
 .publication-meta {
   margin-bottom: 0.8rem;
   color: var(--muted);

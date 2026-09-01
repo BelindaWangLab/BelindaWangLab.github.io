@@ -28,7 +28,7 @@ hide_title: true
         </div>
         <div class="publication-body">
           <h2>{{ publication.title }}</h2>
-          <p class="publication-authors">{{ publication.authors_html }}</p>
+          <div class="publication-authors">{{ publication.authors_html }}</div>
           <p class="publication-meta"><em>{{ publication.journal }}</em>, {{ publication.year }}</p>
 
           {% if publication.access.size > 0 or publication.deposited_data.size > 0 %}
@@ -79,6 +79,18 @@ hide_title: true
           (filter === "key" && item.dataset.key !== "true") ||
           (filter === "preprint" && item.dataset.preprint !== "true");
       });
+    });
+  });
+
+  document.querySelectorAll(".publication-consortium-button").forEach((button) => {
+    button.addEventListener("click", () => {
+      const authorList = document.getElementById(button.getAttribute("aria-controls"));
+      if (!authorList) return;
+
+      const isExpanded = button.getAttribute("aria-expanded") === "true";
+
+      button.setAttribute("aria-expanded", String(!isExpanded));
+      authorList.hidden = isExpanded;
     });
   });
 </script>
