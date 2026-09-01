@@ -2,7 +2,7 @@
 layout: page
 title: OCD and chronic tic disorders genetic study published
 author: Belinda Wang Lab
-date: 2026-09-01 09:00:00 -0700
+date: 2026-09-01 02:00:00 -0700
 external_url: https://www.nature.com/articles/s41593-026-02419-5
 ---
 
