@@ -13,7 +13,7 @@ hide_title: true
   <button class="publication-filter" type="button" data-filter="preprint">Preprints</button>
 </div>
 
-<p class="publication-note">bold = Wang lab; * = co-first or equal contribution; # = co-last or co-senior</p>
+<p class="publication-note">bold = Wang lab; * = co-first or equal contribution; # = co-last or co-corresponding</p>
 
 <div class="publication-list">
   {% for publication in site.data.publications %}
