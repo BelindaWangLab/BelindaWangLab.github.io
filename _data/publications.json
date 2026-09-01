@@ -1,5 +1,55 @@
 [
   {
+    "title": "Whole-exome sequencing in individuals with obsessive–compulsive disorder and chronic tic disorders identifies 36 large-effect risk genes",
+    "authors_html": "<strong>Wang B</strong>, Tran MT, Wang S, Liu Y, Olfson E, <strong>Wang G</strong>, <strong>Sun N</strong>, <strong>Dea J</strong>, Olwal CO, Bertolace L, Bloch MH, Cappi C, Chang YC, Chavira D, Coffey BJ, Falkenstein MJ, Frank AC, Franklin ME, Garayalde S, Garrido H, Grados M, Hatem R, Howell AL, Khim S, Kuckertz JM, Le MM, Libby A, McCarty RJ, McNamara ME, McNeil D, Miguel EC, Nasello C, Nguyen B, Norbu T, Oh L, Ordway A, Paciotti C, Peskin VA, Pittenger C, Simpson HB, Martin HS, Tischfield MA, Xing J, Zakrzewski JJ, <button class=\"publication-consortium-button\" type=\"button\" aria-expanded=\"false\" aria-controls=\"tic-genetics-nat-neurosci-2026\">TIC Genetics</button>, Dietrich A, Gilbert DL, Hoekstra PJ, Kim YS, Kuperman S, Rosen A, Zinner SH, Bouhaddou M, King RA, Rouleau G, Ressler KJ, Mathews CA, Krogan NJ, Sestan N, Tischfield JA#, Lee AM#, Heiman GA#, Fernandez TV#, Willsey AJ#, State MW#<span class=\"publication-consortium-authors\" id=\"tic-genetics-nat-neurosci-2026\" hidden>TIC Genetics: Ball J, Benaroya-Milshtein N, Bornais K, Cheon KA, Coffey BJ, Dietrich A, Elster EM, Feldman D, Fernandez TV, Fremer C, Gilbert DL, Glover D, Hedderly T, Heiman GA, Heyman I, Hoekstra PJ, Hong HJ, Huijser C, Kappler-Friedrichs C, Kim H, Kim YK, Kim YS, King RA, Kirchen N, Klages CS, Kuperman S, Leventhal BL, Liang H, Lopez ML, Malik O, Messchendorp M, Mingbunjerdsuk D, Mir P, Morer A, Müller-Vahl KR, Münchau A, Muñoz-Delgado L, Murphy TL, Nasello C, Plessen KJ, Roessner V, Rosen A, Rouleau G, Schmitt S, Shukla C, Sopena S, State MW, Steinberg T, Tarnok Z, Thackray JK, Timmor M, Tischfield JA, Tischfield MA, Uhlmann A, Vigil-Pérez A, Visscher F, Walitza S, Wang B, Wang S, Willsey AJ, Xing J, Zinner SH</span>",
+    "journal": "Nature Neuroscience",
+    "year": "2026",
+    "journal_year": "Nature Neuroscience, 2026",
+    "citation_details": "Nature Neuroscience (2026)",
+    "key": true,
+    "preprint": false,
+    "image_filename": "2026WangB_NatNeuroscience.png",
+    "image_alt_text": "Whole-exome sequencing in individuals with obsessive–compulsive disorder and chronic tic disorders identifies 36 large-effect risk genes",
+    "access": [
+      {
+        "label": "Full Text",
+        "url": "https://www.nature.com/articles/s41593-026-02419-5"
+      },
+      {
+        "label": "medRxiv Preprint",
+        "url": "https://www.medrxiv.org/content/10.1101/2025.10.10.25337672v1"
+      },
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/BelindaWangLab/OCDCTDphase1"
+      }
+    ],
+    "additional_links": [
+      {
+        "label": "Rutgers News",
+        "url": "https://www.rutgers.edu/news/researchers-discover-dozens-genes-tied-ocd-and-tic-disorders"
+      }
+    ],
+    "deposited_data": [
+      {
+        "label": "Zenodo Record",
+        "url": "https://zenodo.org/records/20804979"
+      },
+      {
+        "label": "TIC Genetics Phase 3: dbGaP phs001423.v4.p2",
+        "url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001423.v4.p2"
+      },
+      {
+        "label": "TIC Genetics Phase 3 (NRGR): NDA Collection 2958",
+        "url": "https://nda.nih.gov/edit_collection.html?id=2958"
+      },
+      {
+        "label": "FFOR (NRGR): NDA Collection 6223",
+        "url": "https://nda.nih.gov/edit_collection.html?id=6223"
+      }
+    ]
+  },
+  {
     "title": "Autism mutations rewire protein interaction networks to drive neurodevelopmental pathology",
     "authors_html": "<strong>Wang B*</strong>, Vartak R*, Hennick KM*, Zaltsman Y*, Naing ZZC*, Polacco BJ, Bashir A, Eckhardt M, Bouhaddou M, Xu J, <strong>Sun N</strong>, Lasser MC, Zhou Y, McKetney J, Guiley KZ, Gniewek P, Chan U, Amirani N, Griffiths O, Chadha N, Tognatta R, Cakir M, Gordon M, Khare P, Drake S, Drury V, Burke DF, Gonzalez S, Alkhairy S, Thomas R, Lam S, Morris M, Bader E, Dos Santos M, Komarova AV, Bennett M, Ennis C, Castillo O, Lim Y, Martin R, Seyler M, Baum T, Krasnoff R, <strong>Wang G</strong>, Middya S, Wang S, Pham P, Arbelaez J, Pratt D, Bali S, Chag S, Kaye JA, Mahmood N, Spraggon L, Rolland T, Hervey-Jumper S, Fraser JS, Bourgeron T, Finkbeiner S, Demeret C, Swaney DL, Bandyopadhyay S, Ideker T, Beltrao P, Willsey HR, Hüttenhain R, Obernier K#, Nowakowski TJ#, State MW#, Willsey AJ#, Krogan NJ#",
     "journal": "Science",
@@ -68,47 +118,6 @@
       {
         "label": "CUT&Tag: GSE285273",
         "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE285273"
-      }
-    ]
-  },
-  {
-    "title": "Rare coding mutations identify 36 large-effect risk genes in obsessive-compulsive disorder and chronic tic disorders",
-    "authors_html": "<strong>Wang B</strong>, Tran MT, Wang S, Liu Y, Olfson E, <strong>Wang G</strong>, <strong>Sun N</strong>, <strong>Dea J</strong>, Olwal CO, Bertolace L, Bloch MH, Cappi C, Chang YC, Chavira D, Coffey BJ, Falkenstein MJ, Frank AC, Franklin ME, Garayalde S, Garrido H, Grados M, Hatem R, Howell AL, Khim S, Kuckertz JM, Le MM, Libby A, McCarty RJ, McNamara ME, McNeil D, Miguel EC, Nasello C, Nguyen B, Norbu T, Oh L, Ordway A, Paciotti C, Peskin VA, Pittenger C, Simpson HB, Martin HS, Tischfield MA, Xing J, Zakrzewski JJ, <button class=\"publication-consortium-button\" type=\"button\" aria-expanded=\"false\" aria-controls=\"tic-genetics-nat-neurosci-2026\">TIC Genetics</button>, Dietrich A, Gilbert DL, Hoekstra PJ, Kim YS, Kuperman S, Rosen A, Zinner SH, Bouhaddou M, King RA, Rouleau G, Ressler KJ, Mathews CA, Krogan NJ, Sestan N, Tischfield JA#, Lee AM#, Heiman GA#, Fernandez TV#, Willsey AJ#, State MW#<span class=\"publication-consortium-authors\" id=\"tic-genetics-nat-neurosci-2026\" hidden>TIC Genetics: Ball J, Benaroya-Milshtein N, Bornais K, Cheon KA, Coffey BJ, Dietrich A, Elster EM, Feldman D, Fernandez TV, Fremer C, Gilbert DL, Glover D, Hedderly T, Heiman GA, Heyman I, Hoekstra PJ, Hong HJ, Huijser C, Kappler-Friedrichs C, Kim H, Kim YK, Kim YS, King RA, Kirchen N, Klages CS, Kuperman S, Leventhal BL, Liang H, Lopez ML, Malik O, Messchendorp M, Mingbunjerdsuk D, Mir P, Morer A, Müller-Vahl KR, Münchau A, Muñoz-Delgado L, Murphy TL, Nasello C, Plessen KJ, Roessner V, Rosen A, Rouleau G, Schmitt S, Shukla C, Sopena S, State MW, Steinberg T, Tarnok Z, Thackray JK, Timmor M, Tischfield JA, Tischfield MA, Uhlmann A, Vigil-Pérez A, Visscher F, Walitza S, Wang B, Wang S, Willsey AJ, Xing J, Zinner SH</span>",
-    "journal": "Nature Neuroscience",
-    "year": "2026",
-    "journal_year": "Nature Neuroscience, 2026",
-    "citation_details": "Nature Neuroscience (2026)",
-    "key": true,
-    "preprint": false,
-    "image_filename": "2026WangB_NatNeuroscience.png",
-    "image_alt_text": "Rare coding mutations identify 36 large-effect risk genes in obsessive-compulsive disorder and chronic tic disorders",
-    "access": [
-      {
-        "label": "41282685",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41282685/",
-        "prefix": "PMID: "
-      },
-      {
-        "label": "PMC12633141",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12633141/",
-        "prefix": "PMCID: "
-      },
-      {
-        "label": "medRxiv Preprint",
-        "url": "https://www.medrxiv.org/content/10.1101/2025.10.10.25337672v1"
-      },
-      {
-        "label": "GitHub Repository",
-        "url": "https://github.com/BelindaWangLab/OCDCTDphase1"
-      }
-    ],
-    "additional_links": [
-
-    ],
-    "deposited_data": [
-      {
-        "label": "Zenodo Record",
-        "url": "https://zenodo.org/records/20804979"
       }
     ]
   },
