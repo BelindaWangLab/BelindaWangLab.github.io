@@ -12,6 +12,11 @@
     "image_alt_text": "Whole-exome sequencing in individuals with obsessive–compulsive disorder and chronic tic disorders identifies 36 large-effect risk genes",
     "access": [
       {
+        "label": "42680906",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42680906/",
+        "prefix": "PMID: "
+      },
+      {
         "label": "Full Text",
         "url": "https://www.nature.com/articles/s41593-026-02419-5"
       },
