@@ -1,6 +1,7 @@
 ---
 name: Ashley Clement
 initials: AC
+photo: ashley-clement.jpeg
 role: Administrative Officer
 email:
 email_display: ashley.clement[at]ucsf.edu
