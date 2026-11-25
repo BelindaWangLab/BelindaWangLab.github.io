@@ -7,3 +7,5 @@ external_url: https://www.science.org/doi/10.1126/science.ady4523
 ---
 
 Our work mapping protein-protein interactions for proteins encoded by 100 autism risk genes is published today in *Science*. Thank you to our collaborators and everyone who contributed to this work.
+
+Read more here: [The Transmitter](https://www.thetransmitter.org/spectrum/autism-linked-variants-rewire-protein-networks/), [UCSF News](https://www.ucsf.edu/news/2026/08/432446/autism-decoded-new-science-opening-paths-better-treatments)
