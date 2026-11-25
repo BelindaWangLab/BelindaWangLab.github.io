@@ -17,6 +17,11 @@
         "prefix": "PMID: "
       },
       {
+        "label": "PMC13724258",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13724258/",
+        "prefix": "PMCID: "
+      },
+      {
         "label": "Full Text",
         "url": "https://www.nature.com/articles/s41593-026-02419-5"
       },
@@ -31,8 +36,16 @@
     ],
     "additional_links": [
       {
+        "label": "UCSF News",
+        "url": "https://psychiatry.ucsf.edu/article/news/ucsf-led-international-effort-leads-breakthrough-genetics-ocd-and-tourette-disorder"
+      },
+      {
         "label": "Rutgers News",
         "url": "https://www.rutgers.edu/news/researchers-discover-dozens-genes-tied-ocd-and-tic-disorders"
+      },
+      {
+        "label": "PsyPost",
+        "url": "https://www.psypost.org/scientists-identify-rare-mutations-in-36-genes-that-sharply-raise-the-odds-of-ocd-and-tic-disorders/"
       }
     ],
     "deposited_data": [

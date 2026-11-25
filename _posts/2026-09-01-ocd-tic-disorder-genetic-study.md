@@ -7,3 +7,5 @@ external_url: https://www.nature.com/articles/s41593-026-02419-5
 ---
 
 Our work analyzing whole-exome sequencing data in individuals with OCD or chronic tic disorders, including Tourette disorder, to identify large-effect risk genes was published today in *Nature Neuroscience*. Thank you to our collaborators and to the participants and families who made this work possible.
+
+Read more here: [UCSF News](https://psychiatry.ucsf.edu/article/news/ucsf-led-international-effort-leads-breakthrough-genetics-ocd-and-tourette-disorder)
